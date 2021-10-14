@@ -1,7 +1,6 @@
 {
-  "name": "Thu",
+  "name": "Mongo-Lesson",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "moongoose": "0.0.5",
     "yargs": "^17.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bexs123/Mongo-Lesson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bexs123/Mongo-Lesson/issues"
+  },
+  "homepage": "https://github.com/Bexs123/Mongo-Lesson#readme",
+  "description": ""
 }
